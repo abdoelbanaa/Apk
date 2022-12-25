@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388683661028",
+    "firebase_url": "https://elbana-net-e55e0-default-rtdb.firebaseio.com",
+    "project_id": "elbana-net-e55e0",
+    "storage_bucket": "elbana-net-e55e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388683661028:android:c48485939537e91657f6f1",
+        "android_client_info": {
+          "package_name": "com.elbana.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388683661028-lc554lgnc0ak0gq76nr7597or4mhq6hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSz-slJqmfAtPT6yrYSH_FiLCtvJ9ocUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388683661028-lc554lgnc0ak0gq76nr7597or4mhq6hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
